@@ -1,4 +1,5 @@
 class Ground {
+  //used for creating ground and platform
     constructor(x,y,width,height) {
       var options = {
           isStatic: true
